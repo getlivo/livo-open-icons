@@ -1,0 +1,96 @@
+{
+  "version": "0.0.0",
+  "generatedAt": "2026-02-10T06:58:43.472Z",
+  "icons": [
+    {
+      "name": "calendar-2",
+      "path": "icons/calendar-2.svg",
+      "sha256": "b5d4fed7e60d466072ef27d73aea702672a9569e796ad1e387d5f06bf0aad26e",
+      "bytes": 474
+    },
+    {
+      "name": "checkbox-checked",
+      "path": "icons/checkbox-checked.svg",
+      "sha256": "393a7bbc3641cd85022f71876e664332d587bfe13f37a349d98232c3f429d1fb",
+      "bytes": 453
+    },
+    {
+      "name": "cif",
+      "path": "icons/cif.svg",
+      "sha256": "76e60cef4b33094db4bfa339fa1ee70abb776dccd4f2eb49260a62e8e3d016ac",
+      "bytes": 1753
+    },
+    {
+      "name": "clock-filled",
+      "path": "icons/clock-filled.svg",
+      "sha256": "77f5261f1a5b947013c624da786b199cda1bef603c284d57f92fd7b0bc808fcc",
+      "bytes": 1351
+    },
+    {
+      "name": "document",
+      "path": "icons/document.svg",
+      "sha256": "d1a3a013081a582832dff42b6b0d2fb477cf95e9454034496234408edb05b845",
+      "bytes": 526
+    },
+    {
+      "name": "filter",
+      "path": "icons/filter.svg",
+      "sha256": "db2328208bccb08dabc0f1ff3e37cdd362f0c2427f1deb75d798c86b638a3797",
+      "bytes": 213
+    },
+    {
+      "name": "livo",
+      "path": "icons/livo.svg",
+      "sha256": "6fc89f08bcac8012d66f8f46f5e77186ab7999bd3b642bbc8c8cf8478fb9d852",
+      "bytes": 911
+    },
+    {
+      "name": "livo-full",
+      "path": "icons/livo-full.svg",
+      "sha256": "ba5423d7540a9bbd37f44f93248f3d70f3d3741f5e6059cc2d54bcbd4f4c66e4",
+      "bytes": 1834
+    },
+    {
+      "name": "patient-in-bed",
+      "path": "icons/patient-in-bed.svg",
+      "sha256": "81a5d2fd820b9222ba41825c527b0c494e60d19ce22cdea24b19f5f53c738375",
+      "bytes": 777
+    },
+    {
+      "name": "people-group",
+      "path": "icons/people-group.svg",
+      "sha256": "830ac3084b574738ff9ab9840e41d7160f213da964ce4e2032ba3642fbf331d0",
+      "bytes": 1708
+    },
+    {
+      "name": "portal-tabs",
+      "path": "icons/portal-tabs.svg",
+      "sha256": "180bf8bfa732e3a56f09038f552d02cdbe4f14a5a5190e4554b188f43535f0db",
+      "bytes": 850
+    },
+    {
+      "name": "shield-check-filled",
+      "path": "icons/shield-check-filled.svg",
+      "sha256": "497ffc2701daa2f9f463ad6b9aed6060dd3d55bfdd12e1708ebd0ff894a23048",
+      "bytes": 638
+    },
+    {
+      "name": "square-check-filled",
+      "path": "icons/square-check-filled.svg",
+      "sha256": "393a7bbc3641cd85022f71876e664332d587bfe13f37a349d98232c3f429d1fb",
+      "bytes": 453
+    },
+    {
+      "name": "timer",
+      "path": "icons/timer.svg",
+      "sha256": "7b5f8b0d91a27dfe24207ec6a4c17bfc709421d1ec3cd595005d140785c51b81",
+      "bytes": 635
+    },
+    {
+      "name": "user-hourglass",
+      "path": "icons/user-hourglass.svg",
+      "sha256": "9e556629f403fc1adfd203c288d9cd31d31f392cdeaea69b54c7846a388262f1",
+      "bytes": 1344
+    }
+  ]
+}

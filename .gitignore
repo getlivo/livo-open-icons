@@ -35,7 +35,6 @@ src/@types/i18next.d.ts
 *.env
 .github
 
-dist/
 
 # TypeScript build info
 tsconfig.tsbuildinfo
