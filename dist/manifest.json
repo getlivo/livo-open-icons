@@ -1,11 +1,11 @@
 {
   "version": "0.0.0",
-  "generatedAt": "2026-02-10T07:36:00.271Z",
+  "generatedAt": "2026-02-10T07:50:33.272Z",
   "icons": [
     {
       "name": "calendar-2",
       "path": "icons/calendar-2.svg",
-      "sha256": "53b6d125921121b3bfe8975bab53e152dc6c8df34b8ac99788ed37ce01268896",
+      "sha256": "9a9a130e8e76e180fe893fd40e1d77a08310324634bcc8d14ad18304fa98c273",
       "bytes": 501
     },
     {
@@ -29,13 +29,13 @@
     {
       "name": "document",
       "path": "icons/document.svg",
-      "sha256": "1a8ffa987beb0738f646328a33ea1064927507df849ccb071b9e56c1efbcdd31",
-      "bytes": 553
+      "sha256": "5fd8ea061048c76928293a15867c4d9fee3446192b52f2d4aea4a3b0c039fe2a",
+      "bytes": 554
     },
     {
       "name": "filter",
       "path": "icons/filter.svg",
-      "sha256": "ddc294c60d821d5da479f47faa8c6f95a40829c46e1bdcb0cc138abd55225338",
+      "sha256": "3668968263f1775d2982951f37904b8fcc7f4c7f8f2ddb8a1d4d98cb5fc32c80",
       "bytes": 240
     },
     {
@@ -47,8 +47,8 @@
     {
       "name": "livo-full",
       "path": "icons/fill/livo-full.svg",
-      "sha256": "a99d02ec4c242600ecbe314dde1fa71c8df9ce33d346bfd077edc7b82517ce0b",
-      "bytes": 1858
+      "sha256": "fc2667b5ce0280097bab9d7e021f58cffff754c4cb73f9a14e4628ee8e1001a6",
+      "bytes": 1860
     },
     {
       "name": "patient-in-bed",
@@ -59,7 +59,7 @@
     {
       "name": "people-group",
       "path": "icons/people-group.svg",
-      "sha256": "f83ba6b519372cbd54d07b77d145a341a37ad268c2ed63aff4cb6299118355c1",
+      "sha256": "a81f36b61cd6394939b1581d6eb19afd2c5e1ce480550f54c37a2f0c2bd04f4f",
       "bytes": 1735
     },
     {
@@ -71,7 +71,7 @@
     {
       "name": "shield-check",
       "path": "icons/fill/shield-check.svg",
-      "sha256": "afdf9bc7b89d662b339c642b97cdf4c50ad80bcf5de52b16ac62a1187543c5b0",
+      "sha256": "6cc0c43544f3e2bd8d58f15bace2a1a1ec1c3d013fde381c53267a660e2d5927",
       "bytes": 662
     },
     {
