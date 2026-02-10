@@ -1,96 +1,96 @@
 {
   "version": "0.0.0",
-  "generatedAt": "2026-02-10T06:58:43.472Z",
+  "generatedAt": "2026-02-10T07:36:00.271Z",
   "icons": [
     {
       "name": "calendar-2",
       "path": "icons/calendar-2.svg",
-      "sha256": "b5d4fed7e60d466072ef27d73aea702672a9569e796ad1e387d5f06bf0aad26e",
-      "bytes": 474
+      "sha256": "53b6d125921121b3bfe8975bab53e152dc6c8df34b8ac99788ed37ce01268896",
+      "bytes": 501
     },
     {
       "name": "checkbox-checked",
-      "path": "icons/checkbox-checked.svg",
-      "sha256": "393a7bbc3641cd85022f71876e664332d587bfe13f37a349d98232c3f429d1fb",
-      "bytes": 453
+      "path": "icons/fill/checkbox-checked.svg",
+      "sha256": "b3fba5ee97d19da7077a8943a69d674ae0ed1166953d7d1b3fdc7d78b1b2c40c",
+      "bytes": 477
     },
     {
       "name": "cif",
-      "path": "icons/cif.svg",
-      "sha256": "76e60cef4b33094db4bfa339fa1ee70abb776dccd4f2eb49260a62e8e3d016ac",
-      "bytes": 1753
+      "path": "icons/fill/cif.svg",
+      "sha256": "65308bd5e90fa0a0f11e1771cce3d5484b1b6b759172c56591a8955cabbceeab",
+      "bytes": 1777
     },
     {
-      "name": "clock-filled",
-      "path": "icons/clock-filled.svg",
-      "sha256": "77f5261f1a5b947013c624da786b199cda1bef603c284d57f92fd7b0bc808fcc",
-      "bytes": 1351
+      "name": "clock",
+      "path": "icons/fill/clock.svg",
+      "sha256": "880ed466796527bb1c6fe79196f36a68aec83fcb8aaef1d8f379661b6cf3add5",
+      "bytes": 1375
     },
     {
       "name": "document",
       "path": "icons/document.svg",
-      "sha256": "d1a3a013081a582832dff42b6b0d2fb477cf95e9454034496234408edb05b845",
-      "bytes": 526
+      "sha256": "1a8ffa987beb0738f646328a33ea1064927507df849ccb071b9e56c1efbcdd31",
+      "bytes": 553
     },
     {
       "name": "filter",
       "path": "icons/filter.svg",
-      "sha256": "db2328208bccb08dabc0f1ff3e37cdd362f0c2427f1deb75d798c86b638a3797",
-      "bytes": 213
+      "sha256": "ddc294c60d821d5da479f47faa8c6f95a40829c46e1bdcb0cc138abd55225338",
+      "bytes": 240
     },
     {
       "name": "livo",
-      "path": "icons/livo.svg",
-      "sha256": "6fc89f08bcac8012d66f8f46f5e77186ab7999bd3b642bbc8c8cf8478fb9d852",
-      "bytes": 911
+      "path": "icons/fill/livo.svg",
+      "sha256": "645649bb98ddd628c31df24cdb919657f4afc715dc1988330b84bc43f887c7cf",
+      "bytes": 935
     },
     {
       "name": "livo-full",
-      "path": "icons/livo-full.svg",
-      "sha256": "ba5423d7540a9bbd37f44f93248f3d70f3d3741f5e6059cc2d54bcbd4f4c66e4",
-      "bytes": 1834
+      "path": "icons/fill/livo-full.svg",
+      "sha256": "a99d02ec4c242600ecbe314dde1fa71c8df9ce33d346bfd077edc7b82517ce0b",
+      "bytes": 1858
     },
     {
       "name": "patient-in-bed",
       "path": "icons/patient-in-bed.svg",
-      "sha256": "81a5d2fd820b9222ba41825c527b0c494e60d19ce22cdea24b19f5f53c738375",
-      "bytes": 777
+      "sha256": "8e02465cbfff52d051246e9c681c29e5aa176a03ca1d37dc255b478951a69058",
+      "bytes": 742
     },
     {
       "name": "people-group",
       "path": "icons/people-group.svg",
-      "sha256": "830ac3084b574738ff9ab9840e41d7160f213da964ce4e2032ba3642fbf331d0",
-      "bytes": 1708
+      "sha256": "f83ba6b519372cbd54d07b77d145a341a37ad268c2ed63aff4cb6299118355c1",
+      "bytes": 1735
     },
     {
       "name": "portal-tabs",
       "path": "icons/portal-tabs.svg",
-      "sha256": "180bf8bfa732e3a56f09038f552d02cdbe4f14a5a5190e4554b188f43535f0db",
-      "bytes": 850
+      "sha256": "a44fd4a42f00857f9127d77bdc1e445948c7610e1425c9042e27f31010f4aff5",
+      "bytes": 842
     },
     {
-      "name": "shield-check-filled",
-      "path": "icons/shield-check-filled.svg",
-      "sha256": "497ffc2701daa2f9f463ad6b9aed6060dd3d55bfdd12e1708ebd0ff894a23048",
-      "bytes": 638
+      "name": "shield-check",
+      "path": "icons/fill/shield-check.svg",
+      "sha256": "afdf9bc7b89d662b339c642b97cdf4c50ad80bcf5de52b16ac62a1187543c5b0",
+      "bytes": 662
     },
     {
-      "name": "square-check-filled",
-      "path": "icons/square-check-filled.svg",
-      "sha256": "393a7bbc3641cd85022f71876e664332d587bfe13f37a349d98232c3f429d1fb",
-      "bytes": 453
+      "name": "square-check",
+      "path": "icons/fill/square-check.svg",
+      "sha256": "b3fba5ee97d19da7077a8943a69d674ae0ed1166953d7d1b3fdc7d78b1b2c40c",
+      "bytes": 477
     },
     {
       "name": "timer",
       "path": "icons/timer.svg",
-      "sha256": "7b5f8b0d91a27dfe24207ec6a4c17bfc709421d1ec3cd595005d140785c51b81",
-      "bytes": 635
+      "sha256": "a7cd92da9a7ebf7269878cc2d19407a5741ada366c192a8a8be8e2b27feb204e",
+      "bytes": 668
     },
     {
       "name": "user-hourglass",
       "path": "icons/user-hourglass.svg",
-      "sha256": "9e556629f403fc1adfd203c288d9cd31d31f392cdeaea69b54c7846a388262f1",
-      "bytes": 1344
+      "sha256": "9b6ea0e7e44bcdadfbfb4e0c64fe22c28ca36750ca7e240340adbd73e80b3916",
+      "bytes": 1374
     }
   ]
 }
