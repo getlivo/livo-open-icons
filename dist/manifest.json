@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0",
-  "generatedAt": "2026-02-10T07:50:33.272Z",
+  "version": "1.0.4",
+  "generatedAt": "2026-09-02T08:38:09.081Z",
   "icons": [
     {
       "name": "calendar-2",
@@ -31,6 +31,12 @@
       "path": "icons/document.svg",
       "sha256": "5fd8ea061048c76928293a15867c4d9fee3446192b52f2d4aea4a3b0c039fe2a",
       "bytes": 554
+    },
+    {
+      "name": "euro-per-hour",
+      "path": "icons/euro-per-hour.svg",
+      "sha256": "e8a2924eef3033a08f074f6a894108c2100c1f72136e0c9f1776bb10c5873122",
+      "bytes": 2349
     },
     {
       "name": "filter",
